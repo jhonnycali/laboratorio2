@@ -59,8 +59,7 @@ export const MemoryComponent = () => {
             }
             return item;
         });
-        setStateBoard(newStateBoard);
-    */
+        setStateBoard(newStateBoard);*/
     };
     return (
         <div>
